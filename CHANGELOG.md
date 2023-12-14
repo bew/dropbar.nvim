@@ -1,5 +1,17 @@
 # Changelog
 
+## [7.4.0](https://github.com/Bekaboo/dropbar.nvim/compare/v7.3.0...v7.4.0) (2023-12-14)
+
+
+### Features
+
+* use dropbar menu for `ui.select` (opt-in) ([#120](https://github.com/Bekaboo/dropbar.nvim/issues/120)) ([86a7736](https://github.com/Bekaboo/dropbar.nvim/commit/86a7736f097f2a3fea7da1fc75c16f4ff1a50914))
+
+
+### Performance Improvements
+
+* **menu:** make preview smoother; reduce unnecessary cursor jumps ([4f22910](https://github.com/Bekaboo/dropbar.nvim/commit/4f22910fe08592ddcc0684bc930538b8ce1fbf8f))
+
 ## [7.3.0](https://github.com/Bekaboo/dropbar.nvim/compare/v7.2.1...v7.3.0) (2023-12-09)
 
 
